@@ -30,7 +30,9 @@ My first complete ETL pipeline project!
 **Tech Stack:** Python, Pandas  
 **Status:** ✅ Complete
 
-[View Project Files](./sales_data.csv)
+### 📁 View Project Files  
+👉 [Click here to open the sales-pipeline folder](./sales-pipeline)
+
 
 ---
 
@@ -73,3 +75,4 @@ Saveetha Engineering College, Chennai
 ---
 
 *Building my future as a Data Engineer, one project at a time!* 🚀
+
