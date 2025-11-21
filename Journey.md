@@ -244,7 +244,7 @@
 ## Connect With Me
 
 **GitHub:** You're already here!  
-**LinkedIn:** www.linkedin.com/in/harshavardhan779
+**LinkedIn:**  www.linkedin.com/in/harshavardhan779
 **Email:** harshavardhanbv779@gmail.com
 
 ---
