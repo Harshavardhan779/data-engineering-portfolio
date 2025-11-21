@@ -1,51 +1,75 @@
-# Sales Data Analysis Pipeline
+# Data Engineering Portfolio
 
-## My First Data Engineering Project
+Hi! I'm **Harsha**, a 20-year-old aspiring Data Engineer.
 
-### Overview
-This is my first complete ETL (Extract, Transform, Load) pipeline project.
+## 👨‍💻 About Me
+- 🎓 B.Tech in AI/ML from Saveetha Engineering College (2022-2026)
+- 💼 Software Engineer Intern at Azentio
+- 🚀 Building my data engineering skills through hands-on projects
+- 💡 Passionate about transforming data into insights
 
-### What It Does
-1. **Extracts** data from CSV file
-2. **Transforms** data by calculating revenue
-3. **Analyzes** sales patterns and generates insights
-4. **Loads** results into a summary CSV file
+## 🛠️ Technical Skills
 
-### Technologies Used
-- Python
-- Pandas
-- CSV files
+**Languages:** Python, SQL, Java, PL/SQL  
+**Data Tools:** Pandas, NumPy, SQL  
+**Databases:** Oracle, MySQL, PostgreSQL  
+**Cloud:** AWS (S3, Lambda - learning)  
+**Other:** Git, VS Code, Jupyter
 
-### Key Insights Generated
-- Total revenue across all sales
-- Top 5 products by revenue
-- Revenue breakdown by city
-- Average transaction value
-- Best selling product by quantity
+## 📊 Projects
 
-### Files in This Project
-- `sales_data.csv` - Input data (10 transactions)
-- `sales_analysis.py` - Main pipeline code
-- `sales_summary.csv` - Output summary (generated)
-- `README.md` - This documentation
+### 1. Sales Data Analysis Pipeline
+*November 2025*
 
-### How to Run
-```bash
-python sales_analysis.py
-```
+My first complete ETL pipeline project!
+- Extracts sales data from CSV
+- Transforms and calculates revenue metrics
+- Analyzes patterns (top products, city-wise sales)
+- Generates automated summary reports
 
-### What I Learned
-- Building ETL pipelines from scratch
-- Using Pandas for data transformation
-- Grouping and aggregating data
-- Generating business insights from raw data
-- Professional code documentation
+**Tech Stack:** Python, Pandas  
+**Status:** ✅ Complete
 
-### Author
-**Harsha**  
-November 2025  
-First project in my Data Engineering journey!
+[View Project Files](./sales_data.csv)
 
 ---
 
-*This project demonstrates my ability to build end-to-end data pipelines and extract meaningful insights from data.*
+## 🎯 Current Focus
+- Building end-to-end data pipelines
+- Learning AWS cloud services
+- Solving DSA problems daily
+- Creating a strong portfolio
+
+## 📈 Learning Journey
+Following a structured 8-week Data Engineering curriculum:
+- ✅ Week 1: AWS, SQL, Python, First Project
+- 🔄 Week 2-8: More projects, tools, and skills
+
+## 💻 DSA Practice
+Solving coding problems to strengthen problem-solving:
+- **Platform:** LeetCode, HackerRank
+- **Problems Solved:** 3+ and counting!
+- **Daily Goal:** 2-3 problems
+
+## 🎓 Education
+**B.Tech in Artificial Intelligence & Machine Learning**  
+Saveetha Engineering College, Chennai  
+2022 - 2026
+
+**Achievement:** Mandal Rank 1 in Intermediate Board Exams
+
+## 💼 Work Experience
+**Software Engineer Intern** - Azentio  
+*June 2025 - Present*
+- Working with Oracle PL/SQL, Forms, and Reports
+- Handling production support and change requests
+- Optimizing database queries and resolving issues
+
+## 📫 Connect With Me
+- 📧 Email: harshavardhanbv779@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/harshavardhan779
+- 🐙 GitHub: You're already here!
+
+---
+
+*Building my future as a Data Engineer, one project at a time!* 🚀
