@@ -1,0 +1,12 @@
+customer_id,name,age,email,city,registration_date,purchase_amount,status
+1,Rahul Kumar,28.0,rahul@email.com,Mumbai,2024-01-15,5000.0,active
+2,Priya Singh,33.7,priya@email.com,Delhi,2024-02-20,3500.0,active
+3,Amit Sharma,35.0,amit@email.com,Unknown,2024-03-10,7500.0,active
+4,Sneha Patel,42.0,sneha@email.com,Bangalore,2024-04-05,0.0,inactive
+5,Vikram Reddy,29.0,vikram@email.com,Hyderabad,2024-05-12,4200.0,active
+6,Anonymous,31.0,unknown@email.com,Chennai,2024-06-18,2800.0,active
+7,Anjali Verma,27.0,anjali@email.com,Pune,2024-07-22,6100.0,active
+9,Neha Joshi,33.0,neha@email.com,Delhi,2024-09-14,5500.0,inactive
+10,Karan Mehta,29.0,no-email@example.com,Bangalore,2024-10-05,4800.0,active
+11,Pooja Desai,38.0,pooja@email.com,Hyderabad,2024-11-01,6700.0,active
+12,Arjun Nair,33.7,arjun@email.com,Chennai,2024-11-15,3200.0,active

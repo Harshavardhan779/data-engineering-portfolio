@@ -1,0 +1,11 @@
+date,product,category,quantity,price,customer_city
+2025-01-01,Laptop,Electronics,2,45000,Mumbai
+2025-01-02,Mouse,Electronics,5,500,Delhi
+2025-01-03,Keyboard,Electronics,3,1500,Bangalore
+2025-01-04,Monitor,Electronics,1,15000,Chennai
+2025-01-05,Laptop,Electronics,1,45000,Mumbai
+2025-01-06,Headphones,Electronics,4,2000,Hyderabad
+2025-01-07,Mouse,Electronics,10,500,Pune
+2025-01-08,Laptop,Electronics,3,45000,Delhi
+2025-01-09,Monitor,Electronics,2,15000,Bangalore
+2025-01-10,Keyboard,Electronics,5,1500,Chennai
