@@ -1,0 +1,16 @@
+date,city,temperature,humidity,condition
+2025-01-01,Mumbai,28,75,Sunny
+2025-01-01,Delhi,15,60,Cloudy
+2025-01-01,Bangalore,22,65,Rainy
+2025-01-02,Mumbai,29,78,Sunny
+2025-01-02,Delhi,14,62,Foggy
+2025-01-02,Bangalore,21,70,Rainy
+2025-01-03,Mumbai,27,76,Cloudy
+2025-01-03,Delhi,16,58,Sunny
+2025-01-03,Bangalore,23,68,Sunny
+2025-01-04,Mumbai,30,80,Sunny
+2025-01-04,Delhi,17,55,Clear
+2025-01-04,Bangalore,24,65,Cloudy
+2025-01-05,Mumbai,28,77,Rainy
+2025-01-05,Delhi,13,65,Foggy
+2025-01-05,Bangalore,20,72,Rainy
