@@ -42,13 +42,13 @@ Following a structured 8-week Data Engineering curriculum:
 
 ## DSA Practice
 Solving coding problems daily to strengthen problem-solving skills.
-- LeetCode Profile: [link]
-- HackerRank Profile: [link]
+- LeetCode Profile: https://leetcode.com/u/harshavardhan779/
+- HackerRank Profile:[ [link]](https://www.hackerrank.com/profile/harshavardhanbv1)
 - Problems Solved: 3+ and counting!
 
 ## Connect With Me
 - 📧 Email: harshavardhanbv779@gmail.com
-- 💼 LinkedIn: [Your LinkedIn]
+- 💼 LinkedIn: www.linkedin.com/in/harshavardhan779
 - 📊 GitHub: You're already here!
 
 ---
